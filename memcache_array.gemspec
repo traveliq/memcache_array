@@ -12,5 +12,5 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.5.0}
   s.files = [ "README.rdoc", "LICENSE", "lib/memcache_array.rb"]
   s.test_files = [ "spec/memcache_array_spec.rb"]
-  s.add_dependency(%q<rspec>, ["~> 2.3.0"])
+  s.add_dependency(%q<rspec>, ["~> 1.3.1"])
 end
